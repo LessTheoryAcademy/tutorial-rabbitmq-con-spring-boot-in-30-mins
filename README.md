@@ -14,7 +14,7 @@ Impareremo Spring con RabbitMQ scrivendo tanto codice insieme e durante lo svilu
 Tutorial Spring con RabbitMQ in 30 mins : il tutorial per imparare Spring con RabbitMQ in pochissimo tempo, con meno teoria e più pratica! 
 
 ## Vuoi seguire tutto il tutorial? Eccoti il link dei video! :) 
-https://www.youtube.com/watch?v=gPes5k4KBaQ&list=PLl8lST6xZTJb42YNY4z1wTY0v3hRJ6bg3&index=1
+https://www.youtube.com/watch?v=W33bv6Vcarw&list=PLl8lST6xZTJb42YNY4z1wTY0v3hRJ6bg3&index=1
 
 Buono studio! :)
 
